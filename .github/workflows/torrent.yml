@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "F4NG.FR.4GB-GameDrive.Org.part1.rar"
-  comment: "F4NG.FR.4GB-GameDrive.Org.part1.rar"
-  url: "https://s1-p.cybar.xyz/S22/Fallout%204%20NG%20[FitGirl%20Repack]/F4NG.FR.4GB-GameDrive.Org.part1.rar"
-  file_name: "F4NG.FR.4GB-GameDrive.Org.part1.rar"
-  piece_size: 21 # Check the README.md for recommended piece size
+  name: "com.feralinteractive.companyofheroes_android"
+  comment: "com.feralinteractive.companyofheroes_android"
+  url: "https://drive.usercontent.google.com/download?id=1Vd-jQAeouT-9IToyLlF27sXgp23WEpWH&export=download&confirm=t&uuid=afa1111f-8611-473b-b36e-6c2adecec718"
+  file_name: "com.feralinteractive.companyofheroes_android.zip"
+  piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
   create:
